@@ -16,7 +16,6 @@ const Body = () => {
                 <div key={index} className="clip">
                     <video width="300" controls>
                         <source src={clip.source_clip} type="video/mp4" />
-                        Your browser does not support the video tag.
                     </video>
                     <h3>{clip.title}</h3>
                     <p>{clip.description}</p>
