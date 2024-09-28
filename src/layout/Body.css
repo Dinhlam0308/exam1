@@ -1,0 +1,51 @@
+.body {
+    text-align: center;
+}
+
+.header-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.header-section h2 {
+    margin: 0;
+    padding-right: 10px;
+}
+
+.ranking {
+    width: 25px;
+    top: 500px;
+
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.large-video {
+    margin: 0 20px;
+}
+
+.side-video-container {
+    display: flex;
+    justify-content: left;
+    margin-top: 20px;
+}
+
+.side-videos {
+    display: flex;
+    flex-direction: column;
+    margin: 0 20px;
+}
+
+.clip {
+    margin-bottom: 20px;
+}
+.description {
+    text-align: left;
+    margin-top: -30px;
+}
